@@ -1,0 +1,5 @@
+This should print first Hello World
+This will print second - When you want the fixture to return something and use it in the test then we have to pass it in use /n It can be object, instant of class,result of a function it can be anything.Playwright allows to call a different fixture to another fixture
+Last world
+This is worker scope fixture - It will run only once per worker and it will be shared across all the tests in that worker1
+After test

@@ -1,0 +1,4 @@
+This should print first Hello World
+When you want the fixture to return something and use it in the test then we have to pass it in use /n It can be object, instant of class,result of a function it can be anything
+This is world 1
+After test
